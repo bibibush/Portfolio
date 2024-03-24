@@ -12,10 +12,10 @@
 
 #### Salaisons de la Brèche 웹사이트
 
->- 프로젝트 상세 설명 : https://github.com/bibibush/salaisons-de-la-breche
+> 프로젝트 상세 설명 : https://github.com/bibibush/salaisons-de-la-breche
 >
 >
->- 사용 기술: React, Django:4.2, Python:3.11, sqlite3
+> 사용 기술: React, Django:4.2, Python:3.11, sqlite3
 
 <br />
 
