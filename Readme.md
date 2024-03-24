@@ -12,6 +12,9 @@
 
 #### Salaisons de la Brèche 웹사이트
 
+> 기간 : 2023년 1월 - 2023년 11월
+>
+> 
 > 프로젝트 상세 설명 : https://github.com/bibibush/salaisons-de-la-breche
 >
 >
@@ -37,16 +40,37 @@
 
 #### 생산 계획서 자동화 프로그램 개발
 
-- 프로젝트 상세 설명 : https://github.com/bibibush/Automatisation
+> 기간 : 2023년 8월 - 2023년 10월
+>
+> 
+> 프로젝트 상세 설명 : https://github.com/bibibush/Automatisation
+>
+>
+> 사용 기술 : Python:3.11, Xlwings, tkinter, pyautogui
+
+<br />
+
+- 엑셀로 된 재고서를 자동 실행한 뒤 데이터를 가져와 파이썬 코드로 된 계산식을 실행하는
+프로그램 개발
 
 
-- 사용 기술 : Python:3.11, Xlwings, tkinter, pyautogui
+- tkinter GUI를 사용해 버튼만 누르면 동작하는 실행 파일로 사용할 수 있도록 개발
 
 <br />
 
 #### 라벨 제작 자동화 프로그램 개발
 
-- 프로젝트 상세 설명 : https://github.com/bibibush/Etiquettes
+> 기간 : 2023년 10월 - 2023년 12월
+>
+> 
+> 프로젝트 상세 설명 : https://github.com/bibibush/Etiquettes
+>
+>
+> 사용 기술 : Python:3.11, Xlwings, tkinter, pyautogui
+
+<br />
+
+- 포장 박스 크기에 맞게 제품들의 개수를 담은 라벨 작성 자동화 개발
 
 
-- 사용 기술 : Python:3.11, Xlwings, tkinter, pyautogui
+- 엑셀로 된 주문서를 자동 계산하여 데이터 표 자동 작성
