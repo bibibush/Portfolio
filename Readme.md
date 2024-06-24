@@ -17,6 +17,9 @@
 > 
 > 프로젝트 상세 설명 : https://github.com/bibibush/salaisons-de-la-breche
 >
+> 
+> 프론트엔드 상세 설명 : https://github.com/bibibush/frontend-breche
+> 
 >
 > 사용 기술: React, Django:4.2, Python:3.11, sqlite3
 
