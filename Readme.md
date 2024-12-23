@@ -34,6 +34,8 @@
 
 - tanstack-query를 이용한 서버상태(server state) 관리
 
+- zustand를 이용한 전역 클라이언트 상태 관리
+
 - URL객체를 이용한 이미지 미리보기 구현
 
 - Django의 media_url을 이용한 미디어 파일들 서빙
