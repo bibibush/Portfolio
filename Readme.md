@@ -26,9 +26,30 @@
 
 <br />
 
-- 프론트엔드에서는 react-cookie, zustand 그리고 백엔드에서는 django-rest-framework-simplejwt를 사용한 JWT인증방식 구현
+- react-cookie, zustand, djangorestframework-simplejwt를 이용한 JWT인증방식 구현
 
-- 하이
+- 네이버 증권을 크롤링 하여 차트 및 데이터 테이블 구현
+
+- react-hook-form을 사용한 클라이언트에서 폼 유효성 검사 실행
+
+- tanstack-query를 이용한 서버상태(server state) 관리
+
+- URL객체를 이용한 이미지 미리보기 구현
+
+- Django의 media_url을 이용한 미디어 파일들 서빙
+
+- Django의 메타모델을 사용해 유일성 제한 구현
+
+- aws s3를 사용해 프론트엔드 정적파일들 배포
+
+- nginx와 certbot을 사용해 리버스 프록시 구현 및 스태틱 파일 서빙, ssl인증 설정
+
+- docker(Dockerfile, docker-compose.yml)을 사용해 EC2에 배포
+
+- github-action과 ssh-action을 사용해 CI/CD 구현
+
+---
+<br />
 
 ### Salaisons de la Brèche 웹사이트
 
