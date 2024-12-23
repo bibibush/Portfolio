@@ -10,6 +10,16 @@
 
 ## 프로젝트
 
+### 증권 대시보드 웹사이트
+
+> 기간 : 2024년 12월
+>
+> 
+> 프로젝트 상세 설명 :
+>
+> 
+> 사용 기술: React:18.3, React-Hook-Form, Tanstack Query:v5, Shadcn UI, Zustand, Postgresql, Django:5.1, Django Rest Framework, beautifulSoup4, pandas, Docker, Nginx, Aws EC2
+
 ### Salaisons de la Brèche 웹사이트
 
 > 기간 : 2023년 1월 - 2023년 11월
