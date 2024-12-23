@@ -17,12 +17,18 @@
 > 
 > 기간 : 2024년 12월
 > 
-> 프로젝트 상세 설명 :
+> 프로젝트 상세 설명 : https://github.com/bibibush/react-vite-frontend
 >
 > 
-> 사용 기술: React:18.3, React-Hook-Form, Tanstack Query:v5, Shadcn UI, Zustand, Postgresql, Django:5.1,
+> 사용 기술: Typescript, React:18.3, React-Hook-Form, Tanstack Query:v5, Shadcn UI, Zustand, Postgresql, Django:5.1,
 > 
 > Django Rest Framework, beautifulSoup4, pandas, Docker, Nginx, Aws EC2
+
+<br />
+
+- 프론트엔드에서는 react-cookie, zustand 그리고 백엔드에서는 django-rest-framework-simplejwt를 사용한 JWT인증방식 구현
+
+- 하이
 
 ### Salaisons de la Brèche 웹사이트
 
