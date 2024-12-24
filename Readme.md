@@ -21,7 +21,6 @@
 >
 > 
 > 사용 기술: Typescript, React:18.3, React-Hook-Form, Tanstack Query:v5, Shadcn UI, Zustand, Postgresql, Django:5.1,
-> 
 > Django Rest Framework, beautifulSoup4, pandas, Docker, Nginx, Aws EC2
 
 <br />
