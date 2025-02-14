@@ -10,7 +10,7 @@
 
 ## 프로젝트
 
-### 증권 대시보드 웹사이트
+### (Django, React)증권 대시보드 웹사이트
 
 > 웹사이트 : https://foxstocks.site
 > 
