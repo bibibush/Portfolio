@@ -18,6 +18,7 @@
 > 기간 : 2024년 12월
 > 
 > 프론트엔드 상세 설명 : https://github.com/bibibush/react-vite-frontend
+> 
 > 백엔드 상세 설명 : https://github.com/bibibush/Foxstocks_Django_backend
 > 
 > 사용 기술: Typescript, React:18.3, React-Hook-Form, Tanstack Query:v5, Shadcn UI, Zustand, Postgresql, Django:5.1,
