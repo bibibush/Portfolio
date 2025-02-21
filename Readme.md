@@ -12,7 +12,7 @@
 
 ### (Django, React)증권 대시보드 웹사이트
 
-> 웹사이트 : https://foxstocks.site
+> 웹사이트 : https://foxstocks.site (aws 프리티어 만료로 인해 당분간 사이트 다운)
 > 
 > 
 > 기간 : 2024년 12월
