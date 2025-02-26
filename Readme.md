@@ -10,6 +10,39 @@
 
 ## 프로젝트
 
+### (Next.js) 프로젝트 관리 웹사이트
+
+> 웹사이트 : https://projecttodo.store
+>
+> 
+> 기간 : 2025년 02월
+>
+> 상세 설명 : https://github.com/bibibush/project-todo
+>
+> 사용 기술: Typescript, Next.js:15.1, React-Hook-Form, Tanstack Query:v5, Shadcn Ui, Tailwindcss, Auth.js, Postgresql, Prisma,
+> Docker, Nginx, Aws EC2
+
+<br />
+
+- auth.js를 사용한 JWT 인증 구현
+  
+- next.js의 병렬 라우팅을 통해 인증 상태에 따라 ui 구분 구현
+  
+- revalidatePath를 통해 캐시 설정 무효화 구현
+  
+- server action, react query의 프리패치를 사용해 더 빠른 성능의 react query 구현
+  
+- next.js의 server components, server action 그리고 prisma를 사용해 백엔드 로직 구현
+  
+- React.memo, useMemo, useCallback을 사용해 렌더링 최적화 구현
+  
+- nginx와 certbot을 사용해 리버스 프록시 구현 및 스태틱 파일 서빙, ssl인증 설정
+
+- docker(Dockerfile, docker-compose.yml)을 사용해 EC2에 배포
+
+---
+<br />
+
 ### (Django, React)증권 대시보드 웹사이트
 
 > 웹사이트 : https://foxstocks.site (aws 프리티어 만료로 인해 당분간 사이트 다운)
