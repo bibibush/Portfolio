@@ -45,6 +45,23 @@
 ---
 <br />
 
+### (webpack) 인터넷 속도 계기판
+
+> 기간: 2025년 11월
+>
+> 상세 설명: https://github.com/bibibush/internet_speed
+>
+> 사용 기술: typescript, scss, express.js, webpack
+
+<br />
+
+- webpack기반 ssg방식 렌더링 구현
+- webpack 기반 프론트엔드 + 백엔드 동시 서빙 구현
+- 클라이언트와 서버의 요청 RTT 측정을 통한 ping, download, upload 속도 측정 로직 구현 완료
+
+---
+<br />
+
 ### (Django, React)증권 대시보드 웹사이트
 
 > 웹사이트 : https://foxstocks.site (aws 프리티어 만료로 인해 당분간 사이트 다운)
