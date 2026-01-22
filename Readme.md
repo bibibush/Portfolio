@@ -20,7 +20,7 @@
 > 상세 설명 : https://github.com/bibibush/project-todo
 >
 > 사용 기술: Typescript, Next.js:15.1, React-Hook-Form, Tanstack Query:v5, Shadcn Ui, Tailwindcss, Auth.js, Postgresql, Prisma,
-> Docker, Nginx, Aws EC2
+> Docker, Nginx, Aws EC2, vercel
 
 <br />
 
@@ -39,6 +39,8 @@
 - nginx와 certbot을 사용해 리버스 프록시 구현 및 스태틱 파일 서빙, ssl인증 설정
 
 - docker(Dockerfile, docker-compose.yml)을 사용해 EC2에 배포
+
+- 기존 EC2배포에서 프리티어 만료로 vercel로 이전
 
 ---
 <br />
