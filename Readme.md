@@ -10,6 +10,23 @@
 
 ## 프로젝트
 
+### (webpack) 인터넷 속도 계기판
+
+> 기간: 2025년 11월
+>
+> 상세 설명: https://github.com/bibibush/internet_speed
+>
+> 사용 기술: typescript, scss, express.js, webpack
+
+<br />
+
+- webpack기반 ssg방식 렌더링 구현
+- webpack 기반 프론트엔드 + 백엔드 동시 서빙 구현
+- 클라이언트와 서버의 요청 RTT 측정을 통한 ping, download, upload 속도 측정 로직 구현 완료
+
+---
+<br />
+
 ### (Next.js) 프로젝트 관리 웹사이트
 
 > 웹사이트 : https://projecttodo.store
@@ -41,23 +58,6 @@
 - docker(Dockerfile, docker-compose.yml)을 사용해 EC2에 배포
 
 - 기존 EC2배포에서 프리티어 만료로 vercel로 이전
-
----
-<br />
-
-### (webpack) 인터넷 속도 계기판
-
-> 기간: 2025년 11월
->
-> 상세 설명: https://github.com/bibibush/internet_speed
->
-> 사용 기술: typescript, scss, express.js, webpack
-
-<br />
-
-- webpack기반 ssg방식 렌더링 구현
-- webpack 기반 프론트엔드 + 백엔드 동시 서빙 구현
-- 클라이언트와 서버의 요청 RTT 측정을 통한 ping, download, upload 속도 측정 로직 구현 완료
 
 ---
 <br />
