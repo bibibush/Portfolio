@@ -10,7 +10,7 @@
 
 ## 프로젝트
 
-### (openai api) 지원자에게 무엇이든 물어봐!
+### (openai api) 지원자에게 무엇이든 물어봐! [진행중]
 
 > 웹사이트: https://d2lqi33nqmhm1k.cloudfront.net
 >
