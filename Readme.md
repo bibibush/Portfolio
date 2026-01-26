@@ -10,6 +10,24 @@
 
 ## 프로젝트
 
+### (openai api) 지원자에게 무엇이든 물어봐!
+
+> 기간: 2026년 1월
+>
+> 상세 설명: https://github.com/bibibush/Agent-Front
+>
+> 사용 기술: typescript, css, html, fastAPI, openai API, docker, aws ec2, s3 + cloudFront
+
+<br />
+
+- openai API를 사용해, 채팅 기반 ai 서비스 구현
+- 클린 아키텍처를 적용해 백엔드에서의 구조 정립
+- feature-sliced-design 패턴을 적용해 프론트엔드에서의 비즈니스 로직 별 기능 세분화
+- sse기법을 사용해 스트리밍 응답방식 구현
+
+---
+<br />
+
 ### (webpack) 인터넷 속도 계기판
 
 > 기간: 2025년 11월
