@@ -49,7 +49,7 @@
 
 ### (Next.js) 프로젝트 관리 웹사이트
 
-> 웹사이트 : https://projecttodo.store
+> 웹사이트 : https://project-todo-olive.vercel.app
 >
 > 
 > 기간 : 2025년 02월
