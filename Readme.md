@@ -14,7 +14,7 @@
 
 > 웹사이트: https://d2lqi33nqmhm1k.cloudfront.net
 >
-> 기간: 2026년 1월
+> 기간: 2026년 1월 - 진행중
 >
 > 상세 설명: https://github.com/bibibush/Agent-Front
 >
